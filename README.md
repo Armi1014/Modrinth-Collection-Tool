@@ -338,7 +338,3 @@ You can combine this with all other flags (`--dry-run`, `--config`, `--modlist`)
 * If Modrinth changes their API for collections in the future, this script may need updates.
 
 If you extend it (non-interactive modes, auto-creating collections, other launcher formats), keep your tokens out of version control and don’t push anything that contains real secrets.
-
-```
-::contentReference[oaicite:0]{index=0}
-```
