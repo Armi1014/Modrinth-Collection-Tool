@@ -1,0 +1,5 @@
+{
+  "token": "your_modrinth_personal_access_token_here",
+  "user_agent": "armi/modrinth-collection-tool/0.1 (for personal use only)",
+  "user_id": "your_user_id_here"
+}
