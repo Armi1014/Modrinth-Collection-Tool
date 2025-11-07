@@ -1,3 +1,5 @@
+<img width="1420" height="658" alt="Modrinth Collection Tool" src="https://github.com/user-attachments/assets/74e35ffd-3222-42ad-9053-23128d8105a9" />
+
 # Modrinth Collection Importer
 
 Import a local mod list (for example exported from Prism Launcher) into a **Modrinth collection** with one command.
