@@ -1,5 +1,4 @@
-````md
-# Modrinth Collection Importer
+`# Modrinth Collection Importer
 
 Import a local mod list (for example exported from Prism Launcher) into a **Modrinth collection** with one command.
 
